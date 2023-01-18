@@ -1,0 +1,15 @@
+# Default is Ctrl-Y, so only need to list Shift-Ctrl-Z cases
+# sai.exe,0
+krita.exe,1
+mischief.exe,1
+mischief-free.exe,1
+illustrator.exe,1
+photoshop.exe,1
+blender.exe,1
+# gimp-2.8.exe,0
+# designer.exe,0
+# artrage.exe,0
+# artrage demo.exe,0
+# clipstudiopaint.exe,0
+# painter 2017 x64.exe,0
+# x.exe,0
